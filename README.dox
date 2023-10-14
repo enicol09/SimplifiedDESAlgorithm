@@ -1,0 +1,35 @@
+/**
+
+@mainpage Moodle / Homeworks / AS3 
+
+@author Elia Nicolaou 1012334
+@filename nQueens.c stack.c stack.h
+          DFS.c DFS.h simulate.h simulate.c
+          check.c check.h hill.c hill.h
+
+I ergasia auti aforouse tin ilopoisi enos programmatos , pou me tin xrisi diaforetikon 
+algorithmon tha mporouse na lisi to problima nqueens, pou ousiastika briski kata poso 
+enas arithmos n queen mporoun na topothetithoun pano se ena pinaka megethouns n*n xoris na exoun
+opoiadipote conflicts metaksi tous. 
+
+Gia tin ilopoisi tou pio pano thematos , xrisimopoisa 11 files
+
+DFS.c DFS.h = > periexoun tin epilisi gia to proto algorithmo DFS
+hill.c hill.h => periexoun tin epilisi gia to deftero algorithmo hill_climbing
+simulate.h simulate.h => periexoun tin epilisi gia to trito algorithm simulated
+check.c check.h = > boithitikes sinartisis gia tin main
+nQueens.c => i main mou , mesa apo auti trexei olo to programma
+stack.c stack.h => periexei to implementation mias domis stack
+
+mporite na deite tis sisxetiseis tous sto graph.
+
+epipleon kathe module exei diki tis main , me basi to def debbug p tis dino
+mpori na trexi
+ostoso epidi kapia "antikeimena" xrisimopoioun kapia alla prepei na dinonte kai ta onomata ton allo
+klasen/file kata tin klisi.
+
+ iparxoun diafores onomasies gia ta debug pou mporeite na ta deite se kathe klasi / file.
+
+
+The program in overall wasn't too difficult, and during the implementation I understood better how the header files work .
+*/
